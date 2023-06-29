@@ -1,5 +1,5 @@
 # G16-Asistentevirtual
-
+LINK DE DESPLIEGUE: https://youtu.be/PKOregdEEsU
 Proceso: 
 openai: Es el módulo openai que se importa al principio del código.
 api_data: Es una variable importada del módulo apikey que contiene la clave de la API para OpenAI.
